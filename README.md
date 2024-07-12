@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/fuels-v0.42.0-blue" />
     </a>
 </p>
-dvdssd
+dvdssdsf
 ## Overview
 
 An airdrop is an application where a set number of users are able to claim a specific amount of an asset. In today's ecosystem, this is often used to distribute tokens to an application's user base that has previously interacted with their project.
